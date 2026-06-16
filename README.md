@@ -12,7 +12,7 @@ control y visualizar la postura de cumplimiento en un panel en tiempo real.
 
 ![Dashboard](docs/dashboard.png)
 
-> _Reemplaza `docs/dashboard.png` por una captura de tu dashboard._
+
 
 ## Características
 
